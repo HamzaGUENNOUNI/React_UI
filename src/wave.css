@@ -1,0 +1,6 @@
+.wave{
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
+    background: linear-gradient(to right, #00BFBF, #00BFBF 50%, #FFFFFF 50%, #FFFFFF);
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 80% 100%, 50% 75%, 0 100%);
+}
